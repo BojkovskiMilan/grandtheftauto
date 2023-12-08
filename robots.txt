@@ -1,0 +1,8 @@
+User-agent: Googlebot
+User-agent: Bingbot
+User-agent: Yahoo! Slurp
+User-agent: DuckDuckBot
+dissallow: /
+
+
+Sitemap: https://bojkovskimilan.github.io/grandtheftauto/sitemap.xml
