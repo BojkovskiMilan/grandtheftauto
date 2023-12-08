@@ -587,7 +587,7 @@ function proveraFormeOnBlur() {
   
   proveraFormeOnBlur();
   
-  //Validacija forme na submit
+  //Validacija forme na send
   window.addEventListener("load", () => {
     const dugmeForma = document.querySelector("#btnForma");
     dugmeForma.addEventListener("click", proveriFormu);
