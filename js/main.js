@@ -174,7 +174,7 @@ var socialLinks = [
     { href: "sitemap.xml", iconClass: "bi-diagram-3" },
     { href: "documentation.pdf", iconClass: "bi-file-earmark" },
     { href: "https://www.instagram.com/bojkovskimilan/", iconClass: "bi-instagram" },
-    { href: "https://twitter.com/visokaict", iconClass: "bi-twitter" },
+    { href: "rss.xml", iconClass: "bi-rss" },
 ];
 
 for (var j = 0; j < socialLinks.length; j++) {
