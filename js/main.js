@@ -172,7 +172,7 @@ ulCol3.className = "social-icon";
 
 var socialLinks = [
     { href: "sitemap.xml", iconClass: "bi-diagram-3" },
-    { href: "documentation.pdf", iconClass: "bi-file-earmark" },
+    { href: "Dokumentacija.pdf", iconClass: "bi-file-earmark" },
     { href: "https://www.instagram.com/bojkovskimilan/", iconClass: "bi-instagram" },
     { href: "rss.xml", iconClass: "bi-rss" },
 ];
